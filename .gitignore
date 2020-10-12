@@ -1,0 +1,5 @@
+node_modules
+
+src/data/assets/**.json
+src/data/rails/**.json
+src/data/rail/**.json
